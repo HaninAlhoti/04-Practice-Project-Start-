@@ -41,5 +41,5 @@ jobs:
         - name: install
           run: npm install
 
-        - name: Deploy
+        - name: Deploy App
           run: echo "deploying...""
